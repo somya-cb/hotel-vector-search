@@ -97,3 +97,9 @@ streamlit run hotel_search_app.py
 3. The remaining semantic query is encoded into a 384-dim vector.
 4. Couchbase performs a **pre-filtered vector search**: FTS filters narrow the candidate set, then vector similarity ranks the results.
 5. Full hotel documents are fetched and displayed with amenities, location, price, and vacancy.
+
+<img width="1904" height="766" alt="image" src="https://github.com/user-attachments/assets/4757de78-ec67-4245-b575-dcfc4edf2a68" />
+
+### Results
+<img width="1805" height="1014" alt="image" src="https://github.com/user-attachments/assets/119f1059-1e11-4d3c-aee4-bc1afc3fc2ed" />
+
