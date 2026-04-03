@@ -1,0 +1,11 @@
+couchbase
+python-dotenv
+sentence-transformers
+langchain==0.2.*
+langchain-couchbase
+langchain-huggingface
+rich
+pandas
+numpy
+streamlit
+torch==2.2.2
